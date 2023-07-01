@@ -1,0 +1,57 @@
+.GeeksForGeeks {
+  background-image: url("https://images.pexels.com/photos/1166644/pexels-photo-1166644.jpeg?auto=compress&cs=tinysrgb&https://images.pexels.com/photos/904177/pexels-photo-904177.jpeg?auto=compress&cs=tinysrgb&w=600=600");
+  background-size: "cover";
+  height: 730px;
+  margin-top: -0px;
+
+  background-repeat: no-repeat;
+}
+
+.nc {
+  position: absolute;
+  left: 555px;
+  top: 20px;
+  box-shadow: 1px 1px 6px #000000;
+  padding: 15px;
+  padding-top: 110px;
+  border-radius: 7px;
+  width: 400px;
+  height: 706px;
+}
+.btn1-primary {
+  position: absolute;
+  left: 0px;
+  right: 5px;
+  bottom: 5px;
+  top: 565px;
+  background-color: rgb(2, 39, 29);
+  padding: 5px;
+  border-radius: 7px;
+  width: 370px;
+  color: aliceblue;
+  height: 50px;
+}
+.btn {
+  border-radius: 2px;
+}
+.n3 {
+  padding-top: 1px;
+}
+
+.title {
+  position: absolute;
+  left: 90px;
+  top: 3px;
+
+  padding: 5px;
+  border-radius: 7px;
+  width: 600px;
+}
+.nb2 {
+  position: absolute;
+  width: 365px;
+  top: 85px;
+}
+.lb {
+  color: red;
+}
